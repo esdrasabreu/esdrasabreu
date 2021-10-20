@@ -29,4 +29,5 @@
 
 - 🔭 Hoje trabalho como estágiario
 - 🌱 Eu estou estudando delphi
-- 😄 Pronomes: ele/dele
+- ✝ "Eu não sou quem eu gostaria de ser; eu não sou quem eu poderia ser, ainda, eu não sou quem eu deveria ser. Mas graças a Deus eu não sou mais quem eu era!"
+
